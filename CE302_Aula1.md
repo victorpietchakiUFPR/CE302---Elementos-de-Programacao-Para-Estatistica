@@ -21,7 +21,8 @@ Uma linha nova na proxima linha.
 
 Se eu quero escrever algo em negrito deve-se ser usado **negrito** ou **negrito**. Para algo em italico usar *italico* ou *italico*.
 
-> Esta C) uma citaC'ao de duas linhas
+> Esta é uma citaçao
+> de duas linhas
 
 ### Criando listas
 
